@@ -2,5 +2,5 @@ Burger Yiyelim Clone
 ReactJS 
 
 
-https://burgeryiyelimclone.netlify.app/
+# https://burgeryiyelimclone.netlify.app/
 
